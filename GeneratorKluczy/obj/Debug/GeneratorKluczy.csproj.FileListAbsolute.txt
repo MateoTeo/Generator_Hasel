@@ -6,3 +6,11 @@ C:\Users\ACER\Desktop\kurs\GeneratorKluczy\GeneratorKluczy\obj\Debug\GeneratorKl
 C:\Users\ACER\Desktop\kurs\GeneratorKluczy\GeneratorKluczy\obj\Debug\GeneratorKluczy.csproj.CoreCompileInputs.cache
 C:\Users\ACER\Desktop\kurs\GeneratorKluczy\GeneratorKluczy\obj\Debug\GeneratorKluczy.exe
 C:\Users\ACER\Desktop\kurs\GeneratorKluczy\GeneratorKluczy\obj\Debug\GeneratorKluczy.pdb
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\bin\Debug\GeneratorKluczy.exe.config
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\bin\Debug\GeneratorKluczy.exe
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\bin\Debug\GeneratorKluczy.pdb
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\obj\Debug\GeneratorKluczy.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\obj\Debug\GeneratorKluczy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\obj\Debug\GeneratorKluczy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\obj\Debug\GeneratorKluczy.exe
+C:\Users\ACER\Source\Repos\Generator_Hasel\GeneratorKluczy\obj\Debug\GeneratorKluczy.pdb
