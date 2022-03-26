@@ -44,42 +44,21 @@ namespace GeneratorKluczy
 
 
 
-
-
-
-
-
             if (znakiSpecjalne == "tak")
             {
                 znaki = znaki.Concat(tablicaZnakowZpecjalnych).ToArray();
-            }
-            else
-            {
-
             }
             if (cyfry == "tak")
             {
                 znaki = znaki.Concat(tablicaCyfr).ToArray();
             }
-            else
-            {
-
-            }
             if (duzeLitery == "tak")
             {
                 znaki = znaki.Concat(tablicaDuzychLiter).ToArray();
             }
-            else
-            {
-
-            }
             if (maleLitery == "tak")
             {
                 znaki = znaki.Concat(tablicaMalychLiter).ToArray();
-            }
-            else
-            {
-                    
             }
 
 
@@ -91,9 +70,7 @@ namespace GeneratorKluczy
             Console.WriteLine(klucz);
 
             Console.ReadKey();
-        }
-
-        
+        }       
 
         
     }
